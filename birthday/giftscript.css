@@ -1,0 +1,43 @@
+.Ycenter {
+  position: absolute;
+  top: 260px;
+  width: 90%;
+}
+
+.gifts {
+  position: absolute;
+  left: 600px;
+}
+
+.giftstext {
+  position: relative;
+  right: 30px
+}
+
+.letters {
+  position: absolute;
+  right: 50px;
+}
+
+.letterstext {
+  position: relative;
+  right: 30px
+}
+
+.memories {
+  position: absolute;
+  left: 150px;
+}
+
+.memoriestext {
+  position: relative;
+  right: 32px
+}
+
+.white {
+  color: white;
+}
+
+.body {
+ background-color: Black;
+}

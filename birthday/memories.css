@@ -1,0 +1,42 @@
+.center {
+  margin: 30;
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  display: block;
+  margin-left: 45%;
+  margin-right: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  top: 50%;
+  bottom: 50%;
+}
+
+.white {
+  color: white;
+}
+
+.memorycenter {
+  margin: 30;
+  position: absolute;
+  left: 100px;
+  right: 100px;
+}
+
+.largecenter {
+  margin: 30;
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  display: block;
+  margin-left: 35%;
+}
+
+.letterscenter {
+  margin: 30;
+  position: absolute;
+  left: 355px;
+}
+
+.body {
+background-color: Black;
+}
+
